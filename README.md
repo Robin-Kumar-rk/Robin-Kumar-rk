@@ -11,8 +11,8 @@ I'm **Robin Kumar**, a **B.Tech 2nd-year student** at IMSEC, Ghaziabad. I have a
 ## 🧑‍💻 About Me  
 
 - 🔭 Currently exploring **Kotlin** and **Jetpack Compose** for Android development.  
-- 🏆 Solved **1100+ LeetCode problems**, including top lists like LeetCode 75, Top Interview 150, and Top 100 Liked problems.  
-- 🎯 **LeetCode Rating**: 1900 (Knight badge) | [My LeetCode Profile](https://leetcode.com/u/robin_kumar_rk/)  
+- 🏆 Solved **1500+ LeetCode problems**, including top lists like LeetCode 75, Top Interview 150, and Top 100 Liked problems.  
+- 🎯 **LeetCode Rating**: 1950 (Knight badge) | [My LeetCode Profile](https://leetcode.com/u/robin_kumar_rk/)  
 - 🌱 Learning: Advanced Kotlin features, Android Architecture Components, and building scalable apps.  
 - 🤝 Open to collaborating on **innovative Android projects**.  
 
@@ -35,7 +35,7 @@ I'm **Robin Kumar**, a **B.Tech 2nd-year student** at IMSEC, Ghaziabad. I have a
 
 ## 📊 Problem-Solving Journey  
 
-- Streak of **320 days** of solving **LeetCode Problem of the Day (POTD)** (as of 2025).  
+- Streak of **500 days** of solving **LeetCode Problem of the Day (POTD)** (as of 2025).  
  
 
 ---
