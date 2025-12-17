@@ -47,10 +47,9 @@ I'm **Robin Kumar**, a **B.Tech 3rd-year student** at IMSEC, Ghaziabad. I have a
 
 ---
 
-## 📞 Connect With Me  
+## Connect With Me  
 
 - 📧 Email: robinkumarrk2005@gmail.com  
-- 📱 Phone: +91 9927565646  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/robin-kumar-rk/)  
 - 🌐 [GitHub](https://github.com/Robin-Kumar-rk/)  
 
